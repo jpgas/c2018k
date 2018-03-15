@@ -3,7 +3,7 @@
 
 패치 적용 방법
 
-1. Korean.txt 파일을 다운로드 합니다.
+1. Korean.zip 파일을 다운로드 하여 압축을 해제, korean.txt 파일을 복사합니다.
 
 2. 기본설치경로 (윈도10 64bit 기준, C:\Program Files (x86)\Steam\steamapps\common\Car Mechanic Simulator 2018\cms2018_Data\StreamingAssets\Localizations )
 로 들어가셔서 korean.txt 파일을 복사하신 뒤, 
